@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto contruido no ebento Next Level Week da Rocketseat.
+Projeto contruido no evento Next Level Week da Rocketseat.
 
 🔗 [Acesse!](https://harmonyss.github.io/Explorer/)
 
